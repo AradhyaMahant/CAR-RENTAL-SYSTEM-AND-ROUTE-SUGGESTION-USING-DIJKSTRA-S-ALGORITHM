@@ -10,3 +10,12 @@ A rental car is time specific, which means that the service could be used very s
 Making use of this kind of service is very convenient but for those who are not so connected with web, the service is of no use. Individual may require a smart device to make use of it.
 The system is designed in the way that it automatically generates the fare according to the distance, so the passenger could not be cheated and will pay the right fare.
 
+## Description :
+
+Through the implementation of this project, we aim to assist in the ease of understandability of various algorithms and C++ concepts with the help of Dev C++ software. 
+Here, in this project the user will be able to choose their ride and help themselves to navigate throughout their destination. 
+The system would provide us with a main screen where we have to fill our login details to get access. 
+The user has to provide the system with a password to make a successful login. 
+Now, the system would provide the customer with the list of cars according to the availability including details like model, color, minimum advance fare to book the car , etc.  
+The user will input his initial location and a final location then the system will calculate rent for total kilometers and the path for the users destination. 
+Finally, the customer will have the money he needs to pay and the route to his input destination.
